@@ -1,0 +1,9 @@
+pytest
+pytest_check
+selenium
+termcolor
+
+
+
+
+
